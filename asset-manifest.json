@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shaurya/static/css/main.588fa210.chunk.css",
+    "main.js": "/shaurya/static/js/main.8889de04.chunk.js",
+    "main.js.map": "/shaurya/static/js/main.8889de04.chunk.js.map",
+    "runtime-main.js": "/shaurya/static/js/runtime-main.323673c2.js",
+    "runtime-main.js.map": "/shaurya/static/js/runtime-main.323673c2.js.map",
+    "static/js/2.b70f68aa.chunk.js": "/shaurya/static/js/2.b70f68aa.chunk.js",
+    "static/js/2.b70f68aa.chunk.js.map": "/shaurya/static/js/2.b70f68aa.chunk.js.map",
+    "index.html": "/shaurya/index.html",
+    "precache-manifest.958b46fccad9773056540fbd7b1e83fb.js": "/shaurya/precache-manifest.958b46fccad9773056540fbd7b1e83fb.js",
+    "service-worker.js": "/shaurya/service-worker.js",
+    "static/css/main.588fa210.chunk.css.map": "/shaurya/static/css/main.588fa210.chunk.css.map",
+    "static/js/2.b70f68aa.chunk.js.LICENSE.txt": "/shaurya/static/js/2.b70f68aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.323673c2.js",
+    "static/js/2.b70f68aa.chunk.js",
+    "static/css/main.588fa210.chunk.css",
+    "static/js/main.8889de04.chunk.js"
+  ]
+}
